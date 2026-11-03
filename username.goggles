@@ -1,8 +1,7 @@
 ! name: Usernames Engine
-! description: SFW
+! description: Custom site boost list
 ! public: false
-! author: kiraiskool
-
+! author: waffles_are_better
 $boost=3,site=codedex.io
 $boost=3,site=coddy.tech
 $boost=3,site=juejin.cn
@@ -41,7 +40,6 @@ $boost=3,site=amazon.com
 $boost=3,site=community.adobe.com
 $boost=3,site=bit.ly
 $boost=3,site=wordpress.com
-$boost=3,site={username}.wordpress.com
 $boost=3,site=support.mozilla.org
 $boost=3,site=discourse.mozilla.org
 $boost=3,site=plus.google.com
@@ -53,7 +51,6 @@ $boost=3,site=en.gravatar.com
 $boost=3,site=reddit.com
 $boost=3,site=tumblr.com
 $boost=3,site=tuchong.com
-$boost=3,site={username}.tuchong.com
 $boost=3,site=open.spotify.com
 $boost=3,site=api.stats.fm
 $boost=3,site=archive.org
@@ -77,7 +74,6 @@ $boost=3,site=scholar.harvard.edu
 $boost=3,site=issuu.com
 $boost=3,site=weibo.com
 $boost=3,site=passport.weibo.com
-$boost=3,site={username}.weebly.com
 $boost=3,site=weebly.com
 $boost=3,site=linktr.ee
 $boost=3,site=discord.com
@@ -96,17 +92,14 @@ $boost=3,site=bsky.app
 $boost=3,site=public.api.bsky.app
 $boost=3,site=substack.com
 $boost=3,site=blogger.com
-$boost=3,site={username}.blogspot.com
 $boost=3,site=cnet.com
 $boost=3,site=tripadvisor.com
 $boost=3,site=wix.com
-$boost=3,site={username}.wix.com
 $boost=3,site=dailymotion.com
 $boost=3,site=api.dailymotion.com
 $boost=3,site=bandcamp.com
 $boost=3,site=api.imgur.com
 $boost=3,site=imgur.com
-$boost=3,site={username}.yelp.com
 $boost=3,site=yelp.com
 $boost=3,site=theverge.com
 $boost=3,site=themeforest.net
@@ -121,7 +114,6 @@ $boost=3,site=datacite.org
 $boost=3,site=datadryad.org
 $boost=3,site=explore.openaire.eu
 $boost=3,site=api.openaire.eu
-$boost=3,site={username}.readthedocs.io
 $boost=3,site=readthedocs.org
 $boost=3,site=animego.online
 $boost=3,site=thepibay.site
@@ -144,7 +136,6 @@ $boost=3,site=academia.edu
 $boost=3,site=independent.academia.edu
 $boost=3,site=discuss.python.org
 $boost=3,site=livejournal.com
-$boost=3,site={username}.livejournal.com
 $boost=3,site=dribbble.com
 $boost=3,site=quora.com
 $boost=3,site=openstreetmap.org
@@ -159,7 +150,6 @@ $boost=3,site=codesnippets.fandom.com
 $boost=3,site=xing.com
 $boost=3,site=patreon.com
 $boost=3,site=deviantart.com
-$boost=3,site={username}.deviantart.com
 $boost=3,site=forum.waypoint.vice.com
 $boost=3,site=gofundme.com
 $boost=3,site=zhihu.com
@@ -167,7 +157,6 @@ $boost=3,site=oj.vnoi.info
 $boost=3,site=giphy.com
 $boost=3,site=threads.com
 $boost=3,site=slack.com
-$boost=3,site={username}.slack.com
 $boost=3,site=weld.in.ua
 $boost=3,site=buzzfeed.com
 $boost=3,site=w3schools.com
@@ -216,7 +205,6 @@ $boost=3,site=laracasts.com
 $boost=3,site=paypal.me
 $boost=3,site=paypal.com
 $boost=3,site=itch.io
-$boost=3,site={username}.itch.io
 $boost=3,site=api.bitbucket.org
 $boost=3,site=bitbucket.org
 $boost=3,site=forums.ea.com
@@ -245,13 +233,11 @@ $boost=3,site=hacker-news.firebaseio.com
 $boost=3,site=tradingview.com
 $boost=3,site=discogs.com
 $boost=3,site=jimdosite.com
-$boost=3,site={username}.jimdosite.com
 $boost=3,site=dzen.ru
 $boost=3,site=codepen.io
 $boost=3,site=rottentomatoes.com
 $boost=3,site=forums.tomshardware.com
 $boost=3,site=smugmug.com
-$boost=3,site={username}.smugmug.com
 $boost=3,site=forum.ghost.org
 $boost=3,site=duolingo.com
 $boost=3,site=storage.ko-fi.com
@@ -311,7 +297,6 @@ $boost=3,site=sbnation.com
 $boost=3,site=api.mojang.com
 $boost=3,site=minecraft.net
 $boost=3,site=tilda.ws
-$boost=3,site={username}.tilda.ws
 $boost=3,site=discuss.elastic.co
 $boost=3,site=codecademy.com
 $boost=3,site=discuss.codecademy.com
@@ -556,12 +541,10 @@ $boost=3,site=tvtropes.org
 $boost=3,site=forum.wordreference.com
 $boost=3,site=support.t-mobile.com
 $boost=3,site=rajce.idnes.cz
-$boost=3,site={username}.rajce.idnes.cz
 $boost=3,site=icq.com
 $boost=3,site=icq.im
 $boost=3,site=eurogamer.net
 $boost=3,site=boardgamegeek.com
-$boost=3,site={username}.tistory.com
 $boost=3,site=tistory.com
 $boost=3,site=jsfiddle.net
 $boost=3,site=onlyfans.com
@@ -617,7 +600,6 @@ $boost=3,site=chaturbate.com
 $boost=3,site=amateur.tv
 $boost=3,site=techdirt.com
 $boost=3,site=forum.blackmagicdesign.com
-$boost=3,site={username}.jalbum.net
 $boost=3,site=jalbum.net
 $boost=3,site=hosted.weblate.org
 $boost=3,site=ultimate-guitar.com
@@ -650,14 +632,12 @@ $boost=3,site=sense.ucoz.com
 $boost=3,site=stroy-s-nami.ucoz.com
 $boost=3,site=osta.ucoz.com
 $boost=3,site=wm.ucoz.com
-$boost=3,site={username}.newgrounds.com
 $boost=3,site=newgrounds.com
 $boost=3,site=forums.linuxmint.com
 $boost=3,site=plurk.com
 $boost=3,site=myfitnesspal.com
 $boost=3,site=bodyspace.bodybuilding.com
 $boost=3,site=contently.com
-$boost=3,site={username}.contently.com
 $boost=3,site=myminifactory.com
 $boost=3,site=community.simplilearn.com
 $boost=3,site=folkd.com
@@ -700,7 +680,6 @@ $boost=3,site=forums.liverpoolfc.com
 $boost=3,site=club.doctissimo.fr
 $boost=3,site=hackster.io
 $boost=3,site=dreamwidth.org
-$boost=3,site={username}.dreamwidth.org
 $boost=3,site=xvideos.com
 $boost=3,site=nintendolife.com
 $boost=3,site=furaffinity.net
@@ -710,7 +689,6 @@ $boost=3,site=gql.hashnode.com
 $boost=3,site=allmylinks.com
 $boost=3,site=funnyordie.com
 $boost=3,site=carbonmade.com
-$boost=3,site={username}.carbonmade.com
 $boost=3,site=audiojungle.net
 $boost=3,site=segmentfault.com
 $boost=3,site=untappd.com
@@ -769,7 +747,6 @@ $boost=3,site=azhack.ucoz.net
 $boost=3,site=hevc-club.ucoz.net
 $boost=3,site=forum4.ucoz.net
 $boost=3,site=noblogs.org
-$boost=3,site={username}.noblogs.org
 $boost=3,site=namu.wiki
 $boost=3,site=profile.cheezburger.com
 $boost=3,site=forums.majorgeeks.com
@@ -809,7 +786,6 @@ $boost=3,site=ask.fm
 $boost=3,site=planetminecraft.com
 $boost=3,site=lnk.bio
 $boost=3,site=rutracker.org
-$boost=3,site=37.1.216.121
 $boost=3,site=rt20.getbb.ru
 $boost=3,site=rt21.getbb.ru
 $boost=3,site=mssg.me
@@ -876,11 +852,9 @@ $boost=3,site=portal-cs-1-6.3dn.ru
 $boost=3,site=wmmail-wmmail.3dn.ru
 $boost=3,site=theodysseyonline.com
 $boost=3,site=webnode.cz
-$boost=3,site={username}.webnode.cz
 $boost=3,site=colourlovers.com
 $boost=3,site=wowhead.com
 $boost=3,site=en.aptoide.com
-$boost=3,site={username}.en.aptoide.com
 $boost=3,site=periscope.tv
 $boost=3,site=sports.ru
 $boost=3,site=rodgersforum.borda.ru
@@ -985,12 +959,10 @@ $boost=3,site=jeuxvideo.com
 $boost=3,site=sporcle.com
 $boost=3,site=coroflot.com
 $boost=3,site=booth.pm
-$boost=3,site={username}.booth.pm
 $boost=3,site=teamtreehouse.com
 $boost=3,site=are.na
 $boost=3,site=anime-planet.com
 $boost=3,site=depop.com
-$boost=3,site={username}.exposure.co
 $boost=3,site=exposure.co
 $boost=3,site=forum.blu-ray.com
 $boost=3,site=lyricstranslate.com
@@ -1022,7 +994,6 @@ $boost=3,site=gribnikikybani.mybb.ru
 $boost=3,site=waytothelight.mybb.ru
 $boost=3,site=allkpop.com
 $boost=3,site=diary.ru
-$boost=3,site={username}.diary.ru
 $boost=3,site=hi5.com
 $boost=3,site=users.scala-lang.org
 $boost=3,site=forum.shotcut.org
@@ -1056,14 +1027,12 @@ $boost=3,site=pmpkbirsk.ucoz.org
 $boost=3,site=redtube.com
 $boost=3,site=n4g.com
 $boost=3,site=listal.com
-$boost=3,site={username}.listal.com
 $boost=3,site=pixelfed.social
 $boost=3,site=filmweb.pl
 $boost=3,site=hackerearth.com
 $boost=3,site=bukkit.org
 $boost=3,site=notabug.org
 $boost=3,site=nn.ru
-$boost=3,site={username}.www.nn.ru
 $boost=3,site=liberapay.com
 $boost=3,site=livemaster.ru
 $boost=3,site=huntingnet.com
@@ -1118,7 +1087,6 @@ $boost=3,site=tjournal.ru
 $boost=3,site=overclockers.ru
 $boost=3,site=adultfriendfinder.com
 $boost=3,site=forum.lingvolive.com
-$boost=3,site={username}.picturepush.com
 $boost=3,site=picturepush.com
 $boost=3,site=codeforces.com
 $boost=3,site=opengameart.org
@@ -1137,7 +1105,6 @@ $boost=3,site=dcinside.com
 $boost=3,site=forum.eksmo.ru
 $boost=3,site=repl.it
 $boost=3,site=portfoliobox.net
-$boost=3,site={username}.portfoliobox.net
 $boost=3,site=smule.com
 $boost=3,site=codewars.com
 $boost=3,site=davesgarden.com
@@ -1148,7 +1115,6 @@ $boost=3,site=tuna.voicemod.net
 $boost=3,site=cfd-online.com
 $boost=3,site=discourse.saylor.org
 $boost=3,site=archive.storycorps.org
-$boost=3,site={username}.mitiendanube.com
 $boost=3,site=tiendanube.com
 $boost=3,site=fixya.com
 $boost=3,site=bibsonomy.org
@@ -1240,7 +1206,6 @@ $boost=3,site=studfile.net
 $boost=3,site=infourok.ru
 $boost=3,site=gardenstew.com
 $boost=3,site=basecamphq.com
-$boost=3,site={username}.basecamphq.com
 $boost=3,site=mamot.fr
 $boost=3,site=illustrators.ru
 $boost=3,site=bigsoccer.com
@@ -1262,7 +1227,6 @@ $boost=3,site=antiquers.com
 $boost=3,site=smogon.com
 $boost=3,site=steamidfinder.com
 $boost=3,site=promptbase.com
-$boost=3,site={username}.insanejournal.com
 $boost=3,site=fredmiranda.com
 $boost=3,site=ru.bookmate.com
 $boost=3,site=community.startupnation.com
@@ -1420,7 +1384,6 @@ $boost=3,site=hackingwithswift.com
 $boost=3,site=trashbox.ru
 $boost=3,site=rpggeek.com
 $boost=3,site=ddo.com
-$boost=3,site={username}.omg.lol
 $boost=3,site=home.omg.lol
 $boost=3,site=api.omg.lol
 $boost=3,site=trisquel.info
@@ -1430,7 +1393,6 @@ $boost=3,site=radioscanner.ru
 $boost=3,site=forum.cxem.net
 $boost=3,site=hoobly.com
 $boost=3,site=vkrugudruzei.ru
-$boost=3,site={username}.vkrugudruzei.ru
 $boost=3,site=mynickname.com
 $boost=3,site=forum.rzn.info
 $boost=3,site=appleinsider.ru
@@ -1465,7 +1427,6 @@ $boost=3,site=likee.video
 $boost=3,site=sa-mp.ucoz.de
 $boost=3,site=movieforums.com
 $boost=3,site=crevado.com
-$boost=3,site={username}.crevado.com
 $boost=3,site=movescount.com
 $boost=3,site=forums.vkmonline.com
 $boost=3,site=lightstalking.com
@@ -1565,7 +1526,6 @@ $boost=3,site=forum.mfd.ru
 $boost=3,site=thebigboss.org
 $boost=3,site=mylespaul.com
 $boost=3,site=bdoutdoors.com
-$boost=3,site={username}.contactin.bio
 $boost=3,site=username.contactin.bio
 $boost=3,site=listography.com
 $boost=3,site=professionali.ru
@@ -1579,7 +1539,6 @@ $boost=3,site=forum.juce.com
 $boost=3,site=musiker-board.de
 $boost=3,site=jigidi.com
 $boost=3,site=forumodua.com
-$boost=3,site={username}.aminus3.com
 $boost=3,site=aminus3.com
 $boost=3,site=shikimori.one
 $boost=3,site=forum.arjlover.net
@@ -1689,7 +1648,6 @@ $boost=3,site=flashflashrevolution.com
 $boost=3,site=forum.zone-game.info
 $boost=3,site=sigtalk.com
 $boost=3,site=33bru.com
-$boost=3,site={username}.33bru.com
 $boost=3,site=avtomarket.ru
 $boost=3,site=videogamegeek.com
 $boost=3,site=forum-ru.101xp.com
@@ -1717,7 +1675,6 @@ $boost=3,site=proglib.io
 $boost=3,site=forum.questionablequesting.com
 $boost=3,site=plug.dj
 $boost=3,site=motorhomefun.co.uk
-$boost=3,site={username}.piccsy.com
 $boost=3,site=piccsy.com
 $boost=3,site=cavalier.hudsonrock.com
 $boost=3,site=hudsonrock.com
@@ -1964,7 +1921,6 @@ $boost=3,site=damochka.ru
 $boost=3,site=raidforums.com
 $boost=3,site=forumprosport.ru
 $boost=3,site=crafta.ua
-$boost=3,site={username}.crafta.ua
 $boost=3,site=pixwox.com
 $boost=3,site=crown6.org
 $boost=3,site=dumpor.com
@@ -2045,7 +2001,6 @@ $boost=3,site=ingvarr.net.ru
 $boost=3,site=hondaswap.com
 $boost=3,site=nsk66.ru
 $boost=3,site=diorama.ru
-$boost=3,site={username}.empretienda.com.ar
 $boost=3,site=empretienda.com
 $boost=3,site=connosr.com
 $boost=3,site=minecraft-statistic.net
@@ -2153,7 +2108,6 @@ $boost=3,site=brute.su
 $boost=3,site=bugcrowd.com
 $boost=3,site=buzznet.com
 $boost=3,site=caringbridge.org
-$boost=3,site={username}.carrd.co
 $boost=3,site=cash.app
 $boost=3,site=castingcall.club
 $boost=3,site=cdaction.pl
@@ -2267,7 +2221,6 @@ $boost=3,site=gardening-forums.com
 $boost=3,site=geekdoing.com
 $boost=3,site=board.german242.com
 $boost=3,site=gesundheitsfrage.net
-$boost=3,site={username}.gitbook.io
 $boost=3,site=glbyh.ru
 $boost=3,site=gliger.ru
 $boost=3,site=gitlab.gnome.org
@@ -2416,7 +2369,6 @@ $boost=3,site=quake-champions.pro
 $boost=3,site=quitter.pl
 $boost=3,site=quizlet.com
 $boost=3,site=rcmir.com
-$boost=3,site={username}.rcmir.com
 $boost=3,site=au.rrforums.net
 $boost=3,site=radio-uchebnik.ru
 $boost=3,site=radiomed.ru
@@ -2454,7 +2406,6 @@ $boost=3,site=sfd.pl
 $boost=3,site=forum.shanniiwrites.com
 $boost=3,site=shitpostbot.com
 $boost=3,site=shoe.org
-$boost=3,site={username}.shoe.org
 $boost=3,site=shoppingzone.ru
 $boost=3,site=shotbow.net
 $boost=3,site=silver-collector.com
@@ -2539,7 +2490,6 @@ $boost=3,site=wordnik.com
 $boost=3,site=forum.wotanks.com
 $boost=3,site=wot-game.com
 $boost=3,site=wuz.by
-$boost=3,site={username}.xanga.com
 $boost=3,site=ya-uchitel.ru
 $boost=3,site=yalta-info.net
 $boost=3,site=forum.yapisal.net
