@@ -1,7 +1,7 @@
 ! name: 4chan Finder
 ! description: Only 4chan and its archives, nothing else
 ! public: false
-! author: footclocker
+! author: footclocked
 
 $discard
 $boost=6,site=desuarchive.org
