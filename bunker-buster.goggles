@@ -1,0 +1,38 @@
+! name: Bunkr Finder
+! description: Only Bunkr mirrors and balbums album indexes
+! public: false
+! author: goobertime
+
+$discard
+$boost=6,site=balbums.st
+$boost=6,site=balbums.org
+$boost=6,site=bunkr-albums.io
+$boost=6,site=bunkr-cache.se
+$boost=6,site=bunkrrr.org
+$boost=6,site=bunkr.si
+$boost=6,site=bunkr.sk
+$boost=6,site=bunkr.fi
+$boost=6,site=bunkr.ph
+$boost=6,site=bunkr.pk
+$boost=6,site=bunkr.ps
+$boost=6,site=bunkr.ws
+$boost=6,site=bunkr.black
+$boost=6,site=bunkr.red
+$boost=6,site=bunkr.media
+$boost=6,site=bunkr.site
+$boost=6,site=bunkr.ac
+$boost=6,site=bunkr.ci
+$boost=6,site=bunkr.cr
+$boost=5,site=bunkr.ru
+$boost=5,site=bunkrr.ru
+$boost=5,site=bunkr.su
+$boost=5,site=bunkrr.su
+$boost=5,site=bunkr.la
+$boost=5,site=bunkr.is
+$boost=5,site=bunkr.to
+$boost=5,site=bunkr.ax
+$boost=5,site=bunkr.cat
+$boost=5,site=status.bunkr.ru
+$boost=5,site=abuse.bunkr.ru
+$boost=5,site=apidl.bunkr.ru
+$boost=5,site=get.bunkrr.su
