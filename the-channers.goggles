@@ -1,0 +1,44 @@
+! name: 4chan Finder
+! description: Search 4chan and its archives
+! public: false
+! author: footclocker
+
+$boost=4,site=4chan.org
+$boost=4,site=www.4chan.org
+$boost=4,site=boards.4chan.org
+$boost=4,site=a.4cdn.org
+$boost=4,site=i.4cdn.org
+$boost=4,site=is.4chan.org
+$boost=4,site=i.4chan.org
+$boost=4,site=dis.4chan.org
+$boost=4,site=sys.4chan.org
+
+$boost=4,site=archive.4plebs.org
+$boost=4,site=desuarchive.org
+$boost=4,site=warosu.org
+$boost=4,site=archived.moe
+$boost=4,site=arch.b4k.dev
+$boost=4,site=arch.b4k.co
+$boost=4,site=boards.fireden.net
+$boost=4,site=archive.palanq.win
+$boost=4,site=eientei.xyz
+$boost=4,site=thebarchive.com
+$boost=4,site=archiveofsins.com
+$boost=4,site=archive.nyafuu.org
+$boost=4,site=old.sage.moe
+$boost=4,site=archive.loveisover.me
+$boost=4,site=4archive.org
+$boost=4,site=test.4archive.org
+$boost=4,site=4ch.be
+$boost=4,site=archive.moe
+$boost=4,site=fgts.jp
+$boost=4,site=4chon.me
+$boost=4,site=420chan.org
+$boost=4,site=8ch.net
+$boost=4,site=4ch.mooo.com
+$boost=4,site=576chan.org
+$boost=4,site=world2ch.org
+$boost=4,site=4chan.net
+$boost=4,site=img.4chan.net
+$boost=4,site=4chanarchive.org
+$boost=4,site=4chanarchives.com
